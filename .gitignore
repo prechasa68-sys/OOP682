@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Packaging artifacts
+*.egg-info/
+dist/
+build/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# uv
+uv.lock
+
