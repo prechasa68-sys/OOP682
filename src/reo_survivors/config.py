@@ -22,7 +22,7 @@ class GameConfig:
 
     # XP/level
     base_xp_to_level: int = 20
-    xp_growth: float = 1.0
+    xp_growth: float = 1.35  # Each level requires 35% more XP than previous
 
     # Win condition
     win_time_seconds: float = 60.0  # survive for N seconds to win
